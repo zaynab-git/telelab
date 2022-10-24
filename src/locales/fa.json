@@ -1,0 +1,57 @@
+{
+    "components": {
+        "seven-segment-1": "نمایشگر هفت قسمتی 1 رقمی",
+        "seven-segment-2": "نمایشگر هفت قسمتی 2 رقمی",
+        "seven-segment-3": "نمایشگر هفت قسمتی 3 رقمی",
+        "seven-segment-4": "نمایشگر هفت قسمتی 4 رقمی",
+        "LED": "LED",
+        "Toggle": "کلید ساده",
+        "analog-input": "ورودی آنالوگ",
+        "analog-output": "خروجی آنالوگ",
+        "push-button": "کاید فشاری",
+        "traffic-light": "چراغ راهنمایی",
+        "Markdown": "متن",
+        "buzzer": "buzzer",
+        "hex-keypad": "صفحه کلید 4 در 4",
+        "LCD": "صفحه نمایش 16 در 2"
+    },
+    "setting": {
+        "theme": "تم",
+        "language": "زبان",
+        "dark": "تاریک",
+        "light": "روشن"
+    },
+    "toolbar": {
+        "file": "ارسال فایل",
+        "webcam": "ویدئو از برد",
+        "remove": "حذف ویدجت ها",
+        "removeErrorTitle": "تمام قطعه‌ها حدف شوند ؟",
+        "removeErrorText": "آیا مطمئن هستید که می خواهید تمام قطعه ها را حدف کنید ؟ این عمل قابل بازگشت نیست.",
+        "removeYes": "حذف",
+        "removeNo": "انصراف",
+        "pins": "پین های ورودی و خروجی",
+        "connection": {
+            "ok": "وضعیت ارتباط: موفق",
+            "bad": "وضعیت ارتباط: ناموفق"
+        }
+    },
+    "editmenu": {
+        "edit": "ویرایش",
+        "appearance": "ظاهر",
+        "help": "راهنما",
+        "clone": "شبیه سازی",
+        "delete": "خذف"
+    },
+    "drawers": {
+        "edit": "ویرایش",
+        "appearance": "ظاهر",
+        "help": "راهنما",
+        "outputs": "خروجی ها",
+        "inputs": "ورودی ها",
+        "name": "نام",
+        "color": "رنگ",
+        "order": "ترتیب",
+        "whatis": " چیست ",
+        "pins": "پین ها"
+    }
+}

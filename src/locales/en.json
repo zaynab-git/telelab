@@ -1,0 +1,57 @@
+{
+    "components": {
+        "seven-segment-1": "1 Digit Seven Segment",
+        "seven-segment-2": "2 Digit Seven Segment",
+        "seven-segment-3": "3 Digit Seven Segment",
+        "seven-segment-4": "4 Digit Seven Segment",
+        "LED": "LED",
+        "Toggle": "Simple Button",
+        "analog-input": "Analog Input",
+        "analog-output": "Analog Output",
+        "push-button": "Push Button",
+        "traffic-light": "Traffic Light",
+        "Markdown": "Text",
+        "buzzer": "Buzzer",
+        "hex-keypad": "4X4 Keypad",
+        "LCD": "LCD 16X2"
+    },
+    "setting": {
+        "theme": "Theme",
+        "language": "Language",
+        "dark": "dark",
+        "light": "light"
+    },
+    "toolbar": {
+        "file": "SEND FILE",
+        "webcam": "BOARD WEBCAM",
+        "remove": "REMOVE WIDGETS",
+        "removeErrorTitle": "Remove all widgets ?",
+        "removeErrorText": "Are you sure you want to remove all the widgets on the dashboard ? This action cant be undone.",
+        "removeYes": "Remove",
+        "removeNo": "Cancel",
+        "pins": "I/O PINS",
+        "connection": {
+            "ok": "connected",
+            "bad": "disconnected"
+        }
+    },
+    "editmenu": {
+        "edit": "Edit",
+        "appearance": "Appearance",
+        "help": "Help",
+        "clone": "Clone",
+        "delete": "Delete"
+    },
+    "drawers": {
+        "edit": "Edit",
+        "appearance": "Appearance",
+        "help": "Help",
+        "outputs": "Outputs",
+        "inputs": "Inputs",
+        "name": "Name",
+        "color": "Color",
+        "order": "Order",
+        "whatis": " What is ",
+        "pins": "Pins"
+    }
+}
