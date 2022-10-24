@@ -1,0 +1,338 @@
+{
+  "index.html": {
+    "file": "assets/index.cf54e893.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vue.87a98c28.js",
+      "_vuetify.bb113346.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "dynamicImports": [
+      "src/widgets/analog-input.vue",
+      "src/widgets/analog-output.vue",
+      "src/widgets/buzzer.vue",
+      "src/widgets/hex-keypad.vue",
+      "src/widgets/lcd.vue",
+      "src/widgets/led.vue",
+      "src/widgets/push-button.vue",
+      "src/widgets/seven-segment-1.vue",
+      "src/widgets/seven-segment-2.vue",
+      "src/widgets/seven-segment-3.vue",
+      "src/widgets/seven-segment-4.vue",
+      "src/widgets/toggle.vue",
+      "src/widgets/traffic-light.vue",
+      "src/grids/fixed-grid.vue",
+      "src/grids/iframe-grid.vue"
+    ],
+    "css": [
+      "assets/index.b7350141.css"
+    ],
+    "assets": [
+      "assets/materialdesignicons-webfont.9bdfaf27.eot",
+      "assets/materialdesignicons-webfont.da7fba3c.woff2",
+      "assets/materialdesignicons-webfont.8bded8f4.woff",
+      "assets/materialdesignicons-webfont.c14484cf.ttf",
+      "assets/roboto-cyrillic-ext-100-normal.b42b8b20.woff2",
+      "assets/roboto-all-100-normal.3dab2f3a.woff",
+      "assets/roboto-cyrillic-100-normal.517072ce.woff2",
+      "assets/roboto-greek-100-normal.800f75c7.woff2",
+      "assets/roboto-vietnamese-100-normal.e90fe7bb.woff2",
+      "assets/roboto-latin-ext-100-normal.77cfab7f.woff2",
+      "assets/roboto-latin-100-normal.22482584.woff2",
+      "assets/roboto-cyrillic-ext-300-normal.ba7394e2.woff2",
+      "assets/roboto-all-300-normal.cbf6cb24.woff",
+      "assets/roboto-cyrillic-300-normal.fb83389e.woff2",
+      "assets/roboto-greek-300-normal.2bb7629c.woff2",
+      "assets/roboto-vietnamese-300-normal.2ab35825.woff2",
+      "assets/roboto-latin-ext-300-normal.b448446e.woff2",
+      "assets/roboto-latin-300-normal.33530b00.woff2",
+      "assets/roboto-cyrillic-ext-400-normal.78f525ec.woff2",
+      "assets/roboto-all-400-normal.55110586.woff",
+      "assets/roboto-cyrillic-400-normal.8dd3b91c.woff2",
+      "assets/roboto-greek-400-normal.ede055d1.woff2",
+      "assets/roboto-vietnamese-400-normal.fb56f0e0.woff2",
+      "assets/roboto-latin-ext-400-normal.4e959d91.woff2",
+      "assets/roboto-latin-400-normal.cc46322d.woff2",
+      "assets/roboto-cyrillic-ext-500-normal.c9295226.woff2",
+      "assets/roboto-all-500-normal.c93f4332.woff",
+      "assets/roboto-cyrillic-500-normal.2d2ad11e.woff2",
+      "assets/roboto-greek-500-normal.d2ea238a.woff2",
+      "assets/roboto-vietnamese-500-normal.b03ef4b1.woff2",
+      "assets/roboto-latin-ext-500-normal.b48f2e02.woff2",
+      "assets/roboto-latin-500-normal.bb46ed07.woff2",
+      "assets/roboto-cyrillic-ext-700-normal.790da48c.woff2",
+      "assets/roboto-all-700-normal.61e16263.woff",
+      "assets/roboto-cyrillic-700-normal.053508cc.woff2",
+      "assets/roboto-greek-700-normal.6d6cdebe.woff2",
+      "assets/roboto-vietnamese-700-normal.6ac62ad1.woff2",
+      "assets/roboto-latin-ext-700-normal.336bb304.woff2",
+      "assets/roboto-latin-700-normal.0eaeadb5.woff2",
+      "assets/roboto-cyrillic-ext-900-normal.95dd9d2d.woff2",
+      "assets/roboto-all-900-normal.213db1f9.woff",
+      "assets/roboto-cyrillic-900-normal.4f4082fa.woff2",
+      "assets/roboto-greek-900-normal.f4e66fd5.woff2",
+      "assets/roboto-vietnamese-900-normal.bef7b82e.woff2",
+      "assets/roboto-latin-ext-900-normal.f2ce8b09.woff2",
+      "assets/roboto-latin-900-normal.0e868ca9.woff2",
+      "assets/roboto-cyrillic-ext-100-italic.e1b27069.woff2",
+      "assets/roboto-all-100-italic.77cf0db4.woff",
+      "assets/roboto-cyrillic-100-italic.28848740.woff2",
+      "assets/roboto-greek-100-italic.e68f440e.woff2",
+      "assets/roboto-vietnamese-100-italic.2bab8631.woff2",
+      "assets/roboto-latin-ext-100-italic.9f2da24d.woff2",
+      "assets/roboto-latin-100-italic.5ec2c7c3.woff2",
+      "assets/roboto-cyrillic-ext-300-italic.0025987f.woff2",
+      "assets/roboto-all-300-italic.b53a9d5c.woff",
+      "assets/roboto-cyrillic-300-italic.5d2b8c83.woff2",
+      "assets/roboto-greek-300-italic.cfc53146.woff2",
+      "assets/roboto-vietnamese-300-italic.bd7d9817.woff2",
+      "assets/roboto-latin-ext-300-italic.19d79f36.woff2",
+      "assets/roboto-latin-300-italic.4c7856c0.woff2",
+      "assets/roboto-cyrillic-ext-400-italic.d8c89ca2.woff2",
+      "assets/roboto-all-400-italic.b78057a4.woff",
+      "assets/roboto-cyrillic-400-italic.d2a4d131.woff2",
+      "assets/roboto-greek-400-italic.553eb7d3.woff2",
+      "assets/roboto-vietnamese-400-italic.34cec365.woff2",
+      "assets/roboto-latin-ext-400-italic.a74103e3.woff2",
+      "assets/roboto-latin-400-italic.46375ee9.woff2",
+      "assets/roboto-cyrillic-ext-500-italic.55c4a287.woff2",
+      "assets/roboto-all-500-italic.b0694ad4.woff",
+      "assets/roboto-cyrillic-500-italic.1e44688d.woff2",
+      "assets/roboto-greek-500-italic.4a8aa2bd.woff2",
+      "assets/roboto-vietnamese-500-italic.60c43f52.woff2",
+      "assets/roboto-latin-ext-500-italic.1653d72f.woff2",
+      "assets/roboto-latin-500-italic.0a938256.woff2",
+      "assets/roboto-cyrillic-ext-700-italic.6769b3d8.woff2",
+      "assets/roboto-all-700-italic.98bb5476.woff",
+      "assets/roboto-cyrillic-700-italic.fdf807eb.woff2",
+      "assets/roboto-greek-700-italic.7db08f2b.woff2",
+      "assets/roboto-vietnamese-700-italic.2786347f.woff2",
+      "assets/roboto-latin-ext-700-italic.a5f7fc85.woff2",
+      "assets/roboto-latin-700-italic.2a42cc82.woff2",
+      "assets/roboto-cyrillic-ext-900-italic.31692b71.woff2",
+      "assets/roboto-all-900-italic.fe400f7d.woff",
+      "assets/roboto-cyrillic-900-italic.2fe866be.woff2",
+      "assets/roboto-greek-900-italic.e9159f56.woff2",
+      "assets/roboto-vietnamese-900-italic.dbee5d1a.woff2",
+      "assets/roboto-latin-ext-900-italic.ed42887f.woff2",
+      "assets/roboto-latin-900-italic.5f277866.woff2"
+    ]
+  },
+  "_vuetify.bb113346.js": {
+    "file": "assets/vuetify.bb113346.js",
+    "imports": [
+      "_vue.87a98c28.js"
+    ],
+    "css": [
+      "assets/vuetify.7992c2b1.css"
+    ]
+  },
+  "_vue.87a98c28.js": {
+    "file": "assets/vue.87a98c28.js"
+  },
+  "_vue3-sfc-loader.a7c67584.js": {
+    "file": "assets/vue3-sfc-loader.a7c67584.js"
+  },
+  "src/widgets/analog-input.vue": {
+    "file": "assets/analog-input.f3920f1b.js",
+    "src": "src/widgets/analog-input.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ]
+  },
+  "src/widgets/analog-output.vue": {
+    "file": "assets/analog-output.0372f42b.js",
+    "src": "src/widgets/analog-output.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vuetify.bb113346.js",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/analog-output.787d0555.css"
+    ]
+  },
+  "src/widgets/buzzer.vue": {
+    "file": "assets/buzzer.b6a2681b.js",
+    "src": "src/widgets/buzzer.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/buzzer.f2465635.css"
+    ]
+  },
+  "src/widgets/hex-keypad.vue": {
+    "file": "assets/hex-keypad.c1f88e2a.js",
+    "src": "src/widgets/hex-keypad.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/hex-keypad.6d214aca.css"
+    ]
+  },
+  "src/widgets/lcd.vue": {
+    "file": "assets/lcd.dadc661e.js",
+    "src": "src/widgets/lcd.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vuetify.bb113346.js",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/lcd.71684809.css"
+    ]
+  },
+  "src/widgets/led.vue": {
+    "file": "assets/led.fcc150bb.js",
+    "src": "src/widgets/led.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/led.84f45e88.css"
+    ]
+  },
+  "src/widgets/push-button.vue": {
+    "file": "assets/push-button.46dad753.js",
+    "src": "src/widgets/push-button.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ]
+  },
+  "src/widgets/seven-segment-1.vue": {
+    "file": "assets/seven-segment-1.72b4fb41.js",
+    "src": "src/widgets/seven-segment-1.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/seven-segment-1.81dfe306.css"
+    ]
+  },
+  "src/widgets/seven-segment-2.vue": {
+    "file": "assets/seven-segment-2.91947b5b.js",
+    "src": "src/widgets/seven-segment-2.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vuetify.bb113346.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/seven-segment-2.8a253dda.css"
+    ]
+  },
+  "src/widgets/seven-segment-3.vue": {
+    "file": "assets/seven-segment-3.56da6f84.js",
+    "src": "src/widgets/seven-segment-3.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/seven-segment-3.b13097c0.css"
+    ]
+  },
+  "src/widgets/seven-segment-4.vue": {
+    "file": "assets/seven-segment-4.fab58939.js",
+    "src": "src/widgets/seven-segment-4.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/seven-segment-4.8af81f7f.css"
+    ]
+  },
+  "src/widgets/toggle.vue": {
+    "file": "assets/toggle.72536323.js",
+    "src": "src/widgets/toggle.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ]
+  },
+  "src/widgets/traffic-light.vue": {
+    "file": "assets/traffic-light.5f6accf2.js",
+    "src": "src/widgets/traffic-light.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/traffic-light.1227e1d5.css"
+    ]
+  },
+  "src/grids/fixed-grid.vue": {
+    "file": "assets/fixed-grid.31d97477.js",
+    "src": "src/grids/fixed-grid.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vuetify.bb113346.js",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/fixed-grid.441a217a.css"
+    ]
+  },
+  "src/grids/iframe-grid.vue": {
+    "file": "assets/iframe-grid.4222f0bc.js",
+    "src": "src/grids/iframe-grid.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vuetify.bb113346.js",
+      "index.html",
+      "_vue.87a98c28.js",
+      "_vue3-sfc-loader.a7c67584.js"
+    ],
+    "css": [
+      "assets/iframe-grid.6ae3e0bb.css"
+    ]
+  }
+}
